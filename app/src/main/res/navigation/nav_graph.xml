@@ -1,0 +1,4 @@
+<fragment android:id="@+id/dataFragment"
+    android:name="com.example.app.DataFragment"
+    android:label="DataFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
